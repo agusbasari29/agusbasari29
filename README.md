@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agusbasari29
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on beck end
+- 💞️ I’m looking to collaborate on backend
 - 📫 How to reach me : agusbasari29@gmail.com
 
 <!---
